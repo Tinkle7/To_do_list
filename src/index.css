@@ -1,9 +1,9 @@
 html{
-  background-color: darkslategray;
+  background-color: rgb(34, 10, 65);
 }
 
 .container-fluid{
-  background-color: darkslategray;
+  background-color: rgb(34, 10, 65);
 }
 
 input[type="text"]{
