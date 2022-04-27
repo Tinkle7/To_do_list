@@ -50,9 +50,6 @@ class App extends Component {
                     })
                   }
                 </ul>
-                {/* <ul className="list-unstyled row m-5">
-                  <Plan p={this.state.items} sendData={this.handleDelete} />
-                </ul> */}
               </div>
             </div>
 
